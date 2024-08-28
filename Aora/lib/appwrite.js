@@ -4,11 +4,11 @@ import { Account, Avatars, Client, Databases, ID, Query, Storage } from 'react-n
 export const config = {
     endpoint: "https://cloud.appwrite.io/v1",
     platform: "com.sandip.aora",
-    projectId: "66c8937c0039464434e4",
-    databaseId: "66c8a9ef0008239360ad",
-    userCollectionId: "66c8aad000138fb9464c",
-    videoCollectionId: "66c8aa9200064566a045",
-    storageId: "66c8add10007632f40c9"
+    projectId: "APPWRITE-PROJECT-ID",
+    databaseId: "APPWRITE-DATABASE-ID",
+    userCollectionId: "APPWRITE-USERCOLLECTION-ID",
+    videoCollectionId: "APPWRITE-VIDEOCOLLECTION-ID",
+    storageId: "APPWRITE-PROJECT-ID"
 }
 
 const {
