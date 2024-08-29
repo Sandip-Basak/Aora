@@ -16,7 +16,7 @@
 
 ## Images
 
-<div align="left">
+<div align="center">
 <img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085433_Aora.jpg" alt="App Images">
 <img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085405_Aora.jpg" alt="App Images">
 </div>
@@ -26,7 +26,7 @@
 <img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085416_Aora.jpg" alt="App Images">
 </div>
 <br>
-<div align='right'>
+<div align='center'>
 <img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085448_Aora.jpg" alt="App Images">
  
 <img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085513_Aora.jpg" alt="App Images">
