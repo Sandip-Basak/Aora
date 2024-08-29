@@ -8,7 +8,7 @@
 
  ### Built with
 
-[![React][ReactNative]][React-url]
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![AppWrite][Appwrite]][Appwrite-url]
 
 
@@ -33,7 +33,5 @@
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[ReactNative]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactnative.dev/
 [Appwrite]: https://img.shields.io/badge/Appwrite-red?style=for-the-badge&color=red
 [Appwrite-url]: https://appwrite.io/
