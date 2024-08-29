@@ -17,18 +17,18 @@
 ## Images
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085433_Aora.jpg" alt="App Images">
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085405_Aora.jpg" alt="App Images">
+<img width=300 align="left" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085433_Aora.jpg" alt="App Images">
+<img width=300 align="right" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085405_Aora.jpg" alt="App Images">
 </div>
 <br><br>
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085441_Aora.jpg" alt="App Images">
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085416_Aora.jpg" alt="App Images">
+<img width=300 align="left" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085441_Aora.jpg" alt="App Images">
+<img width=300 align="right" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085416_Aora.jpg" alt="App Images">
 </div>
 <br><br>
 <div align='center'>
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085448_Aora.jpg" alt="App Images">
-<img width=300 src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085513_Aora.jpg" alt="App Images">
+<img width=300 align="left" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085448_Aora.jpg" alt="App Images">
+<img width=300 align="right" src="https://raw.githubusercontent.com/Sandip-Basak/Aora/main/readme_images/Screenshot_20240829_085513_Aora.jpg" alt="App Images">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
